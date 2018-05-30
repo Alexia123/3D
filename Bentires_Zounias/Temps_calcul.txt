@@ -1,0 +1,18 @@
+Temps sans parallélisation :
+
+Temps total d'exécution de p1' : 3.48007 sec
+Temps total d'exécution de warp' : 3.19036 sec
+
+#################################################
+
+Temps avec parallélisation open MP avec 4 threads :
+
+Temps total d'exécution de p1' : 2.00026 sec
+Temps total d'exécution de warp' : 1.71427 sec
+
+#################################################
+
+Temps avec parallélisation MPI et 2 processeurs :
+
+Temps total d'exécution de p1' : 2.13967 sec
+Temps total d'exécution de warp' : 3.20285 sec
